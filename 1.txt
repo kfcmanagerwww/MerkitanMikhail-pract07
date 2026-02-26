@@ -1,1 +1,2 @@
 Содержимое файла 1
+new row in 1.txt file
